@@ -1,4 +1,4 @@
-name: my_first_package
+name: my_first_package_day_hello
 description: "This package return hello with your name."
 repository: https://github.com/dilrabo-vic24/my_packages.git
 version: 0.0.1
